@@ -3,7 +3,7 @@
 **Desenvolvedor Backend | Ruby on Rails**  
 📍 Fortaleza, CE — Brasil  
 🎓 Formado em Análise e Desenvolvimento de Sistemas  
-🎓 Pós-graduado em Engenharia DevOps
+🎓 Pós-graduado em Engenharia DevOps 
 📆 +7 anos de experiência em desenvolvimento de software  
 
 ---
