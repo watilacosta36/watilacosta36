@@ -12,8 +12,6 @@
 
 Sou um engenheiro de software com sólida experiência em desenvolvimento backend, especializado em **Ruby on Rails**. Atuo há mais de 7 anos na criação de aplicações web robustas, APIs escaláveis e integrações com serviços externos, sempre prezando por código limpo, testes automatizados e boas práticas de engenharia de software.
 
-Atualmente, venho ampliando meu campo de atuação com foco em **Engenharia de Dados** e **Inteligência Artificial**, buscando unir minha experiência em sistemas backend com o potencial de dados para gerar valor estratégico.
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
